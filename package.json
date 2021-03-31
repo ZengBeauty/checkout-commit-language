@@ -1,0 +1,15 @@
+{
+  "name": "commitlint-plugin-commit-check",
+  "version": "1.0.0",
+  "description": "Check if your commit submission contains Chinese.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZengBeauty/commitlint-plugin-commit-check"
+  },
+  "keywords": [
+    "commit"
+  ],
+  "author": "ZengBeauty",
+  "license": "ISC"
+}
