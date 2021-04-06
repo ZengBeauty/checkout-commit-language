@@ -6,6 +6,10 @@ Check if your commit submission contains Chinese.
 
 ```jsx
 npm install commitlint-plugin-commit-check --save-dev
+
+or
+
+yarn install commitlint-plugin-commit-check
 ```
 
 ## Usage
